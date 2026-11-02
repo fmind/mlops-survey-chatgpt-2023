@@ -1,6 +1,6 @@
 # MLOps Survey: Large Language Model (LLMs) - ChatGPT - 2023
 
-Fixing the MLOps Survey on LLMs (2023) with ChatGPT API ([blog post](https://fmind.medium.com/fixing-the-mlops-survey-on-llms-with-chatgpt-api-lessons-learned-62d90e721331)).
+Fixing the MLOps Survey on LLMs (2023) with ChatGPT API ([blog post](https://www.fmind.dev/articles/fixing-the-mlops-survey-on-llms-with-chatgpt-api-lessons-learned/)).
 
 ## Notebooks
 
